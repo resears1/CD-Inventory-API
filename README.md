@@ -3,9 +3,10 @@ Small API for an online store's CD inventory
 
 <h3>Example</h3>
 
-Step 1: POST to CdInventory/AddInventory
+
             
-						Body:
+	Step 1: POST to CdInventory/AddInventory
+	    Body:
                 {
                 "Id": 1,
                 "Artist": "Michael Jackson",
