@@ -1,7 +1,7 @@
 # CD-Inventory-API
 Small API for an online store's CD inventory
 
-<h3>Example</h3>
+<h3>Example (using Postman)</h3>
 
 
             
