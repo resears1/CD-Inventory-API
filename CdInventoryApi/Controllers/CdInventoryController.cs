@@ -114,7 +114,7 @@ namespace CdInventoryApi.Controllers
         Step 1: POST to CdInventory/AddInventory
             Body:
                 {
-                "Id": 1,
+                "Id": "1",
                 "Artist": "Michael Jackson",
                 "Album": "Thriller",
                 "ReleaseYear": 1985,
@@ -124,7 +124,7 @@ namespace CdInventoryApi.Controllers
         Step 2: POST to CdInventory/AddInventory
             Body:
                 {
-                "Id": 2,
+                "Id": "2",
                 "Artist": "Disturbed",
                 "Album": "Indestructible",
                 "ReleaseYear": 2008,
@@ -137,7 +137,7 @@ namespace CdInventoryApi.Controllers
         Step 4: POST to CdInventory/UpdateInventory/2
             Body:
                 {
-                "Id": 2,
+                "Id": "2",
                 "Artist": "Disturbed",
                 "Album": "The Sickness",
                 "ReleaseYear": 2000,
